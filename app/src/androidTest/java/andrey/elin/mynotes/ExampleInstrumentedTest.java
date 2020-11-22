@@ -1,4 +1,4 @@
-package andrey.elin.myapplication;
+package andrey.elin.mynotes;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package andrey.elin.myapplication;
+package andrey.elin.mynotes;
 
 import org.junit.Test;
 
