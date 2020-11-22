@@ -1,5 +1,6 @@
-package andrey.elin.myapplication
+package andrey.elin.mynotes.ui
 
+import andrey.elin.mynotes.R
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
